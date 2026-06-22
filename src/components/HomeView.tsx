@@ -31,7 +31,7 @@ export default function HomeView({ setCurrentPage }: HomeViewProps) {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="font-display text-4xl sm:text-5xl md:text-6.5xl tracking-tight font-semibold text-[#222B27] leading-[1.12]"
           >
-            A more compassionate way to detect risk, <br/>
+            A more compassionate way to detect cancer risk, <br/>
             <span className="text-[#AF6B5E] italic font-medium">built for the lives too often left behind.</span>
           </motion.h1>
 
